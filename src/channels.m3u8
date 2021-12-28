@@ -653,3 +653,13 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/musictv.png" group-title="Music",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd</body></html>
+
+
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1",RCTI
+https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/HJHmRAh.png?v=1.1.1.1",MNC TV
+https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1",GTV
+https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1",iNews
+https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
