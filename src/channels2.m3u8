@@ -1,654 +1,947 @@
 #EXTM3U
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://choos.wap.sh/images/rcti.png" , RCTI (vision)
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-https://akamai.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://choos.wap.sh/images/gtv.png" , GTV (vision)
-https://akamai.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://choos.wap.sh/images/mnctv.png" , MNCTV (vision)
-https://akamai.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://choos.wap.sh/images/inews.png" , I-News (vision)
-https://akamai.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/hgcpgp736in8ax4/trans7.jpg?dl=1", Trans7 (vision)
-https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV (vision)
-https://akamai.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/mjnocr5v8q98cvi/net-tv.jpg?dl=1", Net Tv (vision)
-https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU", SCTV (vision)
-https://akamai.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/l3oy0j9z7b7st6b/antv.png?dl=1", ANTV (vision)
-https://akamai.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TV One (vision)
-https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/qefmcuctb7b33xn/INDOSIAR_Logo.png?dl=1", Indosiar (vision) 
-https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://www.dropbox.com/s/aqfqymhhbc2smtp/metro%20tv.png?dl=1" group-title="LOKAL FTA", METRO TV (vision)
-https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://www.dropbox.com/s/jure4nwv1c4edg5/my%20tv.png?dl=1" group-title="LOKAL FTA", My tv
-http://gpc.my.id/vidio/mytv.m3u8
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/hgcpgp736in8ax4/trans7.jpg?dl=1", Trans7 (TRANSMEDIA)
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1718281498_b744100_sleng.m3u8
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV (TRANSMEDIA)
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_sleng.m3u8
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="https://www.dropbox.com/s/hgcpgp736in8ax4/trans7.jpg?dl=1", Trans7
-http://103.146.203.40/US33T4/MPD/master.m3u8?id=trans7
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 1
-https://google-me.cdn.booyah.live/hls/113130/85565524.m3u8
+<!##########################################################################
+<!######################## LOKAL CHANNELS GROUP ############################
+<!##########################################################################
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 2
-https://google-me.cdn.booyah.live/hls/113132/85569341.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-url"http://www.transvision.co.id" tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="Lokal",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 3
-https://google-me.cdn.booyah.live/hls/113138/83188269.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/net.png" group-title="Lokal",NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 4
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png" group-title="Lokal",Indosiar
+https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
+# http://rr2.dens.tv/s/s04/index.m3u8
+# <!--https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd-->
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 5
-https://google-me.cdn.booyah.live/hls/113132/85566389.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png" group-title="Lokal",SCTV
+https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+# http://rr2.dens.tv/s/s03/index.m3u8
+# <!--https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd-->
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 6
-https://google-me.cdn.booyah.live/hls/113138/85572513.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/rcti.png" group-title="Lokal",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXcJ4.png" group-title="Sport Live", Premier Live HD 7
-https://google-me.cdn.booyah.live/hls/113138/85565524.m3u8
-#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="http://syarman.hexat.com/img/ligabri.png" group-title="LIGA 1 BRI INDONESIA",UseeSport 1 USEETV
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="indosiar" tvg-name="useesport1" tvg-logo="http://syarman.hexat.com/img/ligabri.png" group-title="LIGA 1 BRI INDONESIA", UseeSport 2 USEETV
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies", Bioskop Indonesia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", Thrill
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=thrill
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies", Celestial Movie
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies", Cinema World
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cinemaworld
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies", Flik
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=flik
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies", Galaxy Premium
-http://iptv.tvmalaysia.cc/live/penang172/penang172/7065.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies", IMC
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies", ZBioskop
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=zbioskop
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/gtv.png" group-title="Lokal",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mnctv.png" group-title="Lokal",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="Entertainment", Dunia Lain
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Entertainment", Warner
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment", Blue ant Entertainmet
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Entertainment", Blue ant Extreme
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Entertainment", AXN
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="Entertainment", Waku Waku Japan
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=wakuwaku
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Entertainment", K+
-http://210.210.155.35/session/10ae2010-1577-11ec-b4d5-8b7bae8a0023/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment", Sony GEM TV
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="Entertainment", Sony One
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sone
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/gtv.png" group-title="Lokal",GTV-->
+<!--https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd-->
 
-#EXTINF:-1 group-title="Knowledge" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vh90f0t6bynmwk8/smithsonian.png?dl=1" group-title="Knowledge", SMITHSONIAN 
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mnctv.png" group-title="Lokal",MNCTV-->
+<!--https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd-->
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids", Aniplus
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", My Kidz
- 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First
- 
-https://livecdn.fptplay.net/qnetlive/babyfirst_2000.stream/eroz_brebes.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title=" Kids",Horee
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", Boomerang
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cartoonnetwork
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", Dunia Anak
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=nickjr
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=nickelodeon
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids", Da Vinci Learning
- 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=davinci
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids", Dreamworks
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745771
-#EXTINF:-1 group-title="DENSTV",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",AXN
-http://rr1.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",BLOOMBERG
-http://rr1.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CCTV4
-http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CHANNEL NEWS ASIA
-http://rr.dens.tv/h/h29/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CINEMAEUROPE
-http://rr.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CINEMAWORLD
-http://rr1.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title="DENSTV",DEMO
-http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DEMO
-http://rr2.dens.tv/s/s31/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="DENSTV",DUBAI
-http://rr.dens.tv/h/h152/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DWTV
-http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="DENSTV",EGG NETWORK
-http://rr.dens.tv/h/h22/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ELSHINTA TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/inews.png" group-title="Lokal",INews
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/trans7.png" group-title="Lokal",Trans 7
+https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
+# https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/transtv.png" group-title="Lokal",Trans TV
+https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
+# https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/rtv.png" group-title="Lokal",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/antv.png" group-title="Lokal",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvone.png" group-title="Lokal",TVOne
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/daaitv.png" group-title="Lokal",Da Ai TV
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Elshinta TV" tvg-name="Elshinta TV" tvg-url="http://www.dens.tv" tvg-logo="https://rubbyguntara.github.io/src/img/ElshintaTV2019.png" group-title="Lokal",Elshinta TV
 http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FIGHT SPORTS
-http://rr3.dens.tv/h/h05/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-#EXTINF:-1 group-title="DENSTV",GOLF
-http://rr1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 group-title="DENSTV",HITS
-http://rr1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="DENSTV",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",JAKTV
-http://rr3.dens.tv/s/s46/index.m3u8
-#EXTINF:-1 group-title="DENSTV",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
-#EXTINF:-1 group-title="DENSTV",K+
-http://rr.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KIX
-http://rr1.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KSA
-http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="DENSTV",LIFESTYLE
-http://rr1.dens.tv/h/h28/01.m3u8
-#EXTINF:-1 group-title="DENSTV",Live Streaming
-http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="DENSTV",METROTV
-http://rr3.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MOTORVISION
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/garuda.png" group-title="Lokal",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/jtv.png" group-title="Lokal",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/jaktv.png" group-title="Lokal",Jak TV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/balitv.png" group-title="Lokal",BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvri.png" group-title="Lokal",TVRI Nasional
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+# https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvri.png" group-title="Lokal",TVRI Sport HD
+# http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvri.png" group-title="Lokal",TVRI World
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/MagnaChannel.png" group-title="Lokal",Magna Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/metrotv.png" group-title="Lokal",Metro TV
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/kompastv.png" group-title="Lokal",Kompas TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/bs.png" group-title="Lokal",Berita Satu News Channel
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/bandungtv.png" group-title="Lokal",BandungTV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/seatoday.png" group-title="News",SEA TODAY-->
+<!--https://liveanevia.mncnow.id/live/eds/Sea-Channel/sa_dash_vmx/Sea-Channel.mpd-->
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/ksa.jpg" group-title="Lokal", Dutatv
+https://v2.siar.us/dutatv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-url="http://www.useetv.com" tvg-logo="https://rubbyguntara.github.io/src/img/nusantara.png" group-title="Lokal",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://rubbyguntara.github.io/src/img/Ochannel.png" group-title="Lokal",O Channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="RRI NET" tvg-name="RRI NET" tvg-url="http://www.useetv.com" group-title="Lokal" tvg-logo="https://rubbyguntara.github.io/src/img/rrinet.png",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TV PARLEMEN" tvg-name="TV PARLEMEN" tvg-url="http://www.firstmedia.com" tvg-logo="https://rubbyguntara.github.io/src/img/tvparlemen.png" group-title="Lokal",TV PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="UGTV" tvg-name="" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/ugtv.png" group-title="Lokal",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-url="http://www.useetv.com" tvg-logo="https://rubbyguntara.github.io/src/img/cnbcindonesia.png" group-title="Lokal",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+
+<!##########################################################################
+<!######################### NEWS CHANNELS GROUP ############################
+<!##########################################################################
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/idx.png" group-title="News",IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/dw.png" group-title="News",DW English
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/arirang.png" group-title="News",Arirang World
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mncnews.png" group-title="News",MNC News
+https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/bloomberg.png" group-title="News",Bloomberg TV Asia
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/euronews.png" group-title="News",EuroNews English
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/cgtn.png" group-title="News", CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/aljazeera.png" group-title="News",Aljazeera English
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxnews.png" group-title="News",Fox News Channel
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cnbcasia.png" group-title="News",CNBC Asia-Pacific
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/france24.png" group-title="News",France 24 English
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/bbcworldnews.png" group-title="News",BBC World News Asia Pacific
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/trt.png" group-title="News",TRT World
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/rt.png" group-title="News",RT English
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/abcaustralia.png" group-title="News",ABC Australia Asia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cnninternational.png" group-title="News",CNN International Asia Pacific
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cna.png" group-title="News",CNA
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+<!##########################################################################
+<!####################### MOVIES CHANNELS GROUP ############################
+<!##########################################################################
+
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/fx.png" group-title="Movies",FX-->
+<!--https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd-->
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Bflix Movies [409]" tvg-name="Bflix Movie" tvg-url="http://www.dishtv.in" tvg-logo="https://rubbyguntara.github.io/src/img/blix.png" group-title="Movies",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/fox.png" group-title="Movies",Fox Indonesia
+# https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxlife.png" group-title="Movies",Fox Life Indonesia
+# https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxcrime.png" group-title="Movies",Fox Crime Asia
+# https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxmovies.png" group-title="Movies",Fox Movies Indonesia
+# https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+ 
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxactionmovies.png" group-title="Movies",Fox Action Movies
+# https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxfamilymovies.png" group-title="Movies",Fox Family Movies
+# https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CINEMAX" tvg-country="US" tvg-language="English;Vietnamese" tvg-name="Cinemax" tvg-url="http://www.mncvision.id.E" tvg-logo="https://rubbyguntara.github.io/src/img/Cinemax.ph.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" group-title="Movies",Cinemax Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hbo.png" group-title="Movies",HBO Asia
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hbofamily.png" group-title="Movies",HBO Family Asia
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hbohits.png" group-title="Movies",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hbosig.png" group-title="Movies",HBO Signature Asia
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hits.png" group-title="Movies",Hits
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hitsmovies.png" group-title="Movies",Hits Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/axn.png" group-title="Movies",AXN East Asia
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/kix.png" group-title="Movies",Kix
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/thrill.png" group-title="Movies",Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/warner.png" group-title="Movies",Warner TV Southeast Asia
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cinemaworld.png" group-title="Movies",Cinema World
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cm.png" group-title="Movies",Celestial Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/ccm.png" group-title="Movies",Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/scm.png" group-title="Movies",Star Chinese Movies South East Asia
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/scmlegend.png" group-title="Movies",Star Chinese Movies Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/zeebioskop.png" group-title="Movies",Zee Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+<!##########################################################################
+<!######################## SPORTS CHANNELS GROUP ###########################
+<!##########################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvri.png" group-title="Sports",TVRI Sport HD
+# http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mncsports.png" group-title="Sports",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/soccerchannel.png" group-title="Sports",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/fightsport.png" group-title="Sports",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/beinsports1.png" group-title="Sports",BeIn Sports 1 Indonesia
+# <!--https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd-->
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/beinsports2.png" group-title="Sports",BeIn Sports 2 Indonesia
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/beinsportsextra.png" group-title="Sports",BeIn Sports Extra
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="ext" group-title="Sports" tvg-logo="https://rubbyguntara.github.io/src/img/redbulltv.png",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  group-title="Sports" tvg-logo="https://rubbyguntara.github.io/src/img/spotv.png",SPO TV
+https://ktiptv.co:443/1234/1234/26318
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_1.png" group-title="Sports",Champions TV 1
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+https://dik.si/champion1?shareext.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_2.png" group-title="Sports",Champions TV 2
+https://etus.link/champ2roll?shareext.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_3.png" group-title="Sports",Champions TV 3
+https://etus.link/champ3roll?shareext.m3u8
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxsports1.png" group-title="Sports",Fox Sports Asia
+# https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxsports2.png" group-title="Sports",Fox Sports 2 Asia
+# https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+# #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/foxsports3.png" group-title="Sports",Fox Sports 3 Asia
+# https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+<!##########################################################################
+<!######################### KIDS CHANNELS GROUP ############################
+<!##########################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/disneychannel.png" group-title="Kids",Disney Channel Indonesia
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/disneyjunior.png" group-title="Kids",Disney Junior Asia
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/disneyxd.png" group-title="Kids",Disney XD-->
+<!--https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd-->
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cartoonnetwork.png" group-title="Kids",Cartoon Network Asia
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/boomerang.png" group-title="Kids",Boomerang South East Asia
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/animax.png" group-title="Kids",Animax Asia
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/aniplus.png" group-title="Kids",Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/miaomi.png" group-title="Kids",Miao Mi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/babytv.png" group-title="Kids",Baby TV Asia
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/nickelodeon.png" group-title="Kids",Nickelodeon South East Asia
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/nickjr.png" group-title="Kids",Nick Jr Asia
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/cbeebies.png" group-title="Kids",CBeebies Asia
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/kidstv.png" group-title="Kids",Kids TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+<!##########################################################################
+<!####################### LIFESTYLE CHANNELS GROUP #########################
+<!##########################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/afn.png" group-title="Lifestyle",Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tlc.png" group-title="Lifestyle",TLC Southeast Asia
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/fmn.png" group-title="Lifestyle",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hgtv.png" group-title="Lifestyle",HGTV Asia
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/lifetime.png" group-title="Lifestyle",Lifetime Asia
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/sonyone.png" group-title="Lifestyle",One
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/oktv.png" group-title="Lifestyle",OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/visionprime.png" group-title="Lifestyle",Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/ie.png" group-title="Lifestyle",Infotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/wakuwaku.png" group-title="Lifestyle",WakuWaku Japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/ent.png" group-title="Lifestyle",MNC Entertainment
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+<!##########################################################################
+<!#################### ENTERTAINMENT CHANNELS GROUP ########################
+<!##########################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvn.png" group-title="Entertainment",TVN Premium Indonesia
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png" group-title="Entertainment",TVN Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/zeecinema.png" group-title="Entertainment",Zee Cinema-->
+<!--https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd-->
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/anhuitv.png" group-title="Entertainment",Anhui TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/hunantv.png" group-title="Entertainment",Hunan TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/dragontv.png" group-title="Entertainment",Dragon TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/jiangsutv.png" group-title="Entertainment",Jiangsu TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/xingxong.png" group-title="Entertainment",Xingkong TV
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/nhkworld.png" group-title="Entertainment",NHK World Japan
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/nhkpremium.png" group-title="Entertainment",NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+<!##########################################################################
+<!###################### KNOWLEDGE CHANNELS GROUP ##########################
+<!##########################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/history.png" group-title="Knowledge",History Asia
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/cgtndoc.png" group-title="Knowledge",CGTN Documentary
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/besmart.jpg" group-title="Knowledge",Besmart
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://rubbyguntara.github.io/src/img/Biznet%20Adventure.png" group-title="Knowledge",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="ext" group-title="Knowledge" tvg-logo="https://rubbyguntara.github.io/src/img/discoveryasia.png",Discovery Asia
+http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/discoverychannel.png" group-title="Knowledge",Discovery Channel Southeast Asia
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="DiscoveryHomeHealth.mx" group-title="Knowledge" tvg-logo="https://rubbyguntara.github.io/src/img/discoveryhome.png",Discovery Home & Health
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3083
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="DiscoveryScienceLatinAmerica.pa" group-title="Knowledge" tvg-logo="https://rubbyguntara.github.io/src/img/discoveryscience.png",Discovery Science
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3082
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="DiscoveryTheater.mx" group-title="Knowledge" tvg-logo="https://rubbyguntara.github.io/src/img/discoverytheater.png",Discovery Theater
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4119
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="TLC.mx" group-title="Knowledge" tvg-logo="https://rubbyguntara.github.io/src/img/TLC_Discovery.png",Discovery TLC
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3256
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="DiscoveryWorld.mx" group-title="Knowledge" tvg-logo="https://rubbyguntara.github.io/src/img/discoveryworld.png",Discovery World
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3081
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://rubbyguntara.github.io/src/img/Motorvision-TV.png" group-title="Knowledge",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MyCINEMA ASIA
-http://rr.dens.tv/h/h93/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MyTV
-http://rr2.dens.tv/s/s46/01.m3u8
-#EXTINF:-1 group-title="DENSTV",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 group-title="DENSTV",NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-#EXTINF:-1 group-title="DENSTV",PHOENIX
-http://rr2.dens.tv/s/s21/01.m3u8
-#EXTINF:-1 group-title="DENSTV",PHOENIX CHINESE
-http://rr.dens.tv/h/h157/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",Quran TV
-http://rr2.dens.tv/s/s28/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RT
-http://rr2.dens.tv/s/s23/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="DENSTV",STAR
-http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",STYLE
-http://rr1.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="DENSTV",Sunna TV
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TOONMAX
-http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANSTV
-http://rr3.dens.tv/s/s72/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRT WORLD
-http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",TV5MONDE
-http://rr1.dens.tv/s/s24/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVE
-http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",tvN
-http://rr1.dens.tv/h/h20/01.m3u8
-#EXTINF:-1 group-title="DENSTV",tvN MOVIES
-http://rr1.dens.tv/h/h21/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 group-title="DENSTV",U CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
-#EXTINF:-1 group-title="DENSTV",UA
-http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",WION
-http://rr.dens.tv/h/h91/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF: -1 tvg-id="TV1.my" tvg-name="MY - TV1" group-title="MALAYSIA 1", MY - TV1
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745761
-#EXTINF: -1 tvg-id="TV2.my" tvg-name="MY - TV2" group-title="MALAYSIA 1", MY - TV2
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745762
-#EXTINF: -1 tvg-name="MY - CELESTIAL HD" group-title="MALAYSIA 1", MY - CELESTIAL HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745675
-#EXTINF: -1 tvg-name="MY - KBS World HD" group-title="MALAYSIA 1", MY - KBS World HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745689
-#EXTINF: -1 tvg-name="MY - ONE HD" group-title="MALAYSIA 1", MY - ONE HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745690
-#EXTINF: -1 tvg-name="MY - Oh!K HD" group-title="MALAYSIA 1", MY - Oh!K HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745691
-#EXTINF: -1 tvg-name="MY - tvN HD" group-title="MALAYSIA 1", MY - tvN HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745692
-#EXTINF: -1 tvg-name="MY - HITS MOVIES HD" group-title="MALAYSIA 1", MY - HITS MOVIES HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745693
-#EXTINF: -1 tvg-name="MY - HBO HD" group-title="MALAYSIA 1", MY - HBO HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745694
-#EXTINF: -1 tvg-name="MY - CINEMAX HD" group-title="MALAYSIA 1", MY - CINEMAX HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745695
-#EXTINF: -1 tvg-name="MY - tvN Movies" group-title="MALAYSIA 1", MY - tvN Movies
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745696
-#EXTINF: -1 tvg-name="MY - CGTN" group-title="MALAYSIA 1", MY - CGTN
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745699
-#EXTINF: -1 tvg-name="MY - NAT GEO HD" group-title="MALAYSIA 1", MY - NAT GEO HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745709
-#EXTINF: -1 tvg-name="MY - DISCOVERY HD" group-title="MALAYSIA 1", MY - DISCOVERY HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745710
-#EXTINF: -1 tvg-name="MY - DISCOVERY ASIA" group-title="MALAYSIA 1", MY - DISCOVERY ASIA
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745711
-#EXTINF: -1 tvg-name="MY - HISTORY HD" group-title="MALAYSIA 1", MY - HISTORY HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745712
-#EXTINF: -1 tvg-name="MY - ANIMAL PLANET HD" group-title="MALAYSIA 1", MY - ANIMAL PLANET HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745713
-#EXTINF: -1 tvg-name="MY - DISNEY JUNIOR" group-title="MALAYSIA 1", MY - DISNEY JUNIOR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745720
-#EXTINF: -1 tvg-name="MY - DISNEY CHANNEL HD" group-title="MALAYSIA 1", MY - DISNEY CHANNEL HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745721
-#EXTINF: -1 tvg-name="MY - CARTOON NTWK HD" group-title="MALAYSIA 1", MY - CARTOON NTWK HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745722
-#EXTINF: -1 tvg-name="MY - NICKELODEON HD" group-title="MALAYSIA 1", MY - NICKELODEON HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
-#EXTINF: -1 tvg-name="MY - NICK JR" group-title="MALAYSIA 1", MY - NICK JR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
-#EXTINF: -1 tvg-name="MY - AXN HD" group-title="MALAYSIA 1", MY - AXN HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
-#EXTINF: -1 tvg-name="MY - ASTRO HELLO" group-title="MALAYSIA 1", MY - ASTRO HELLO
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745726
-#EXTINF: -1 tvg-name="MY - KIX HD" group-title="MALAYSIA 1", MY - KIX HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745727
-#EXTINF: -1 tvg-name="MY - FOX SPORTS HD" group-title="MALAYSIA 1", MY - FOX SPORTS HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/bbcearth.png" group-title="Knowledge",BBC Earth Asia
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF: -1 tvg-name="MY - FOX SPORTS 2 HD" group-title="MALAYSIA 1", MY - FOX SPORTS 2 HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745745
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/animalplanet.png" group-title="Knowledge",Animal Planet Southeast Asia
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF: -1 tvg-name="MY - FOX SPORTS 3 HD" group-title="MALAYSIA 1", MY - FOX SPORTS 3 HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/ngc.png" group-title="Knowledge",National Geographic Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF: -1 tvg-name="MY - beIN SPORTS" group-title="MALAYSIA 1", MY - beIN SPORTS
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745747
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/natgeowild.png" group-title="Knowledge",National Geographic Wild Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF: -1 tvg-name="MY - bEIN MAX" group-title="MALAYSIA 1", MY - bEIN MAX
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745748
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/natgeopeople.png" group-title="Knowledge",Nat Geo People Asia
+http://58.65.171.202:8000/play/10503/index.m3u8
+# https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
-#EXTINF: -1 tvg-name="MY - EUROSPORT HD" group-title="MALAYSIA 1", MY - EUROSPORT HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745749
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://rubbyguntara.github.io/src/img/nasa.png" group-title="Knowledge",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF: -1 tvg-name="MY - WWE NETWORK" group-title="MALAYSIA 1", MY - WWE NETWORK
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745750
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://rubbyguntara.github.io/src/img/outdoor.png" group-title="Knowledge",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF: -1 tvg-name="MY - GOLF CHANNEL HD" group-title="MALAYSIA 1", MY - GOLF CHANNEL HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745751
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://rubbyguntara.github.io/src/img/techstorm.png" group-title="Knowledge",Techstorm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
-#EXTINF: -1 tvg-name="MY - ASTRO RUGBY PASS TV" group-title="MALAYSIA 1", MY - ASTRO RUGBY PASS TV
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745752
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/TheDesignNetworkLogo_pink.png" group-title="Knowledge" , The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-name="MY - ASTRO CRICKET" group-title="MALAYSIA 1", MY - ASTRO CRICKET
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745753
-#EXTINF: -1 tvg-name="MY - FOX Life HD" group-title="MALAYSIA 1", MY - FOX Life HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745772
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="https://rubbyguntara.github.io/src/img/voyager.png" group-title="Knowledge",Voyager Documentaries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 
-#EXTINF: -1 tvg-name="MY - FOX Movies HD" group-title="MALAYSIA 1", MY - FOX Movies HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/crimeinvestigation.png" group-title="Knowledge",Crime + Investigation Asia
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
+<!##########################################################################
+<!######################## RELIGI CHANNELS GROUP ###########################
+<!##########################################################################
 
-#EXTINF: -1 tvg-name="MY - DISNEY XD HD" group-title="MALAYSIA 1", MY - DISNEY XD HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745719
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/mekkah.png" group-title="Religi",Al Quran Al Kareem
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1626667651~dirs=1~hash=0ebf1903916f9c911a7a3/ksaquran.smil/ksaquran_chunks.m3u8
 
-#EXTINF: -1 tvg-name="MY - DISNEY JUNIOR" group-title="MALAYSIA 1", MY - DISNEY JUNIOR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745720
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/madinah.png" group-title="Religi",AL Sunnah Nabawi
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1626667649~dirs=1~hash=0e85090d9fca5627eb6bc/ksasunna.smil/ksasunna_chunks.m3u8
 
-#EXTINF: -1 tvg-name="MY - DISNEY CHANNEL HD" group-title="MALAYSIA 1", MY - DISNEY CHANNEL HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745721
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tawaf.png" group-title="Religi",Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#EXTINF: -1 tvg-name="MY - CARTOON NTWK HD" group-title="MALAYSIA 1", MY - CARTOON NTWK HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745722
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/mekkah.png" group-title="Religi",Quran TV
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF: -1 tvg-name="MY - NICKELODEON HD" group-title="MALAYSIA 1", MY - NICKELODEON HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/muslimtv.png" group-title="Religi",Muslim TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF: -1 tvg-name="MY - NICK JR" group-title="MALAYSIA 1", MY - NICK JR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvmu.png" group-title="Religi",TVMU
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF: -1 tvg-name="MY - AXN HD" group-title="MALAYSIA 1", MY - AXN HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
-#EXTINF: -1 tvg-name="MY - FOX Life HD" group-title="MALAYSIA 1", MY - FOX Life HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745772
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tv9.png" group-title="Religi",TV9
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTINF: -1 tvg-name="MY - FOX Movies HD" group-title="MALAYSIA 1", MY - FOX Movies HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
-
-
-#EXTINF: -1 tvg-name="MY - DISNEY XD HD" group-title="MALAYSIA 1", MY - DISNEY XD HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745719
-
-#EXTINF: -1 tvg-name="MY - DISNEY JUNIOR" group-title="MALAYSIA 1", MY - DISNEY JUNIOR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745720
-
-#EXTINF: -1 tvg-name="MY - DISNEY CHANNEL HD" group-title="MALAYSIA 1", MY - DISNEY CHANNEL HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745721
-
-#EXTINF: -1 tvg-name="MY - CARTOON NTWK HD" group-title="MALAYSIA 1", MY - CARTOON NTWK HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745722
-
-#EXTINF: -1 tvg-name="MY - NICKELODEON HD" group-title="MALAYSIA 1", MY - NICKELODEON HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
-
-#EXTINF: -1 tvg-name="MY - NICK JR" group-title="MALAYSIA 1", MY - NICK JR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
-
-#EXTINF: -1 tvg-name="MY - AXN HD" group-title="MALAYSIA 1", MY - AXN HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
-
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",MuiTv
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",Tv9 NU
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",U chanel
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",Alqur'an
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",Tawaf Tv
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",MQTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/mqtv.png" group-title="Religi", MQTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",MTATV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Religi",Muhammadyatv
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/mui.png" group-title="Religi", MUI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/muhammadiyah.png" group-title="Religi", Muhammadiyah TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="SPORT",Bein sport 1 useetv
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="SPORT",Bein sport 2 useetv
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/rodjatv.png" group-title="Religi",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/ahsantv.png", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/surautv.png", Surau TV
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/alimantv.png", AL-ImanTV
+https://tv.rodja.live/aliman/HD/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/mgitv.png", MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/muadztv.png", muadzTV
+http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/izzahtv.png",IZZAH TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/izzahtv.png",IZZAH TV 2
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="https://rubbyguntara.github.io/src/img/wesaltv.png", Wesaltv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1  tvg-id="ksa.alqurantv" tvg-logo="https://rubbyguntara.github.io/src/img/mekkah.png" group-title="International Channel",Al Quran Al Kareem 2
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/madinah.png" group-title="International Channel",AL Sunnah Nabawi 3
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJvX1pw31OmnmlBq-XIw3-5-Qfuhuk0Pysg&usqp=CAU" , Astro Ria
-http://198.16.106.61:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" , Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" , Astro Xiao Tai Yang HD
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" , Astro Shuang Xing ???
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" , Astro Quan Jia ??
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , Astro Prima CH105
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" , Astro Oasis CH106
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , Astro Citra CH108
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD CH109
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png" , Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png" , Suria CH110
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg" , Astro BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" ,One
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" , Astro Xuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.nicepng.com/png/detail/306-3060926_astroxiaotaiyang-astro-xiao-tai-yang.png" , Astro Xiao Tai Yang
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" ,Bernama
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" , Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU" , Tv Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+<!##########################################################################
+<!######################## MUSIC CHANNELS GROUP ############################
+<!##########################################################################
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png"  group-title="Knowledge",National Geographic
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/zing.png" group-title="Music",Zing-->
+<!--https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd-->
 
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/zeetv.png" group-title="Music",Zee TV-->
+<!--https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd-->
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeopeople.png"  group-title="Knowledge",Nat Geo People
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/channelv.png" group-title="Music",Channel V International
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
-http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/musictv.png" group-title="Music",Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png"  group-title="Knowledge",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="maleo.id" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/densshowbiz.png",Dens ShowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
 
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="maleo.id" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/musica.png",MUSICA
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png"  group-title="Knowledge",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="maleo.id" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/maleo.png",MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-http://topwin-tv.my.id/2/master.m3u8?id=disco
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="ext" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/vevo.png",Vevo HipHop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png"  group-title="Knowledge",CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvblockparty.png",MTV Block Party 
+# http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU,"  group-title="Movies",HBO
-http://eroz.hi2.ro/iptv/movies/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU,"  group-title="Movies",HBO Signature
-http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU,HBO"  group-title="Movies",HBO Hits
-http://eroz.hi2.ro/iptv/movies/hbo_hits.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU,"  group-title="Movies",HBO Family
-http://eroz.hi2.ro/iptv/movies/hbo_fam.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU,"  group-title="Movies",HBO CINEMAX
-http://eroz.hi2.ro/iptv/movies/cinemax.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvbiggestpop.png",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png"  group-title="Sports",beIN Sport Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/yyu7dbc6" group-title="Sport", bsp 1
-http://znz.bounounras.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/yxqdsfo6" group-title="Sport", bsp 2
-http://dud.mawanroud.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/y2sop3n7" group-title="Sport", bsp 3
-http://kom.koukoiras.xyz/live/6151278887/index.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/y5holl8g" group-title="Sport", bsp 4
-http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/y2wxs8km" group-title="Sport", bsp 5
-http://55.abdakaroukhai.xyz/live/610303030/index.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/yxw4l4e5" group-title="Sport", bsp 6
-http://55.abdakaroukhai.xyz/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://BySoFarSoGood@tinyurl.com/y6n746q8" group-title="Sport", bsp 7
-http://55.abdakaroukhai.xyz/live/791001144/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="Sport", FOX SPORT 1
-http://103.146.203.40:80/US33T4/MPD/master.m3u8?id=foxsport1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="Sport", FOX SPORT 2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="Sport", FOX SPORT 3
-http://103.146.203.40:80/US33T4/MPD/master.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/5/WWE-Logo-PNG-Clipart.png" group-title="Sport",WWE TV
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sport", SONY TEN 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sport", SONY TEN 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sport", SONY TEN 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg" group-title="Sport", BT SPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFc4hQN/sky-sports-premier-league.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHMqkYL/sky.png" group-title="Sport",SKY SPORTS FOOTBALL
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvyo.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Sport", RMC 1
-http://stream.tvtap.live:8081/live/fr-sfr1.stream/chunks.m3u8?setiya_telegram_at_ssiptvid
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="Sport", RMC 2
-http://www.dropbox.com/s/dl/51ngbj04ewnrptc/ssiptv_sport-rmc2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="Sport", RMC 3
-http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" ,ASTRO ARENA
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" , MNC SPORT
-http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
-#EXTINF:-1 g
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png" , HOL | ESPN 1
-http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png" , HOL | ESPN 2
-http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png" , HOL | ESPN 3
-http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png" , HOL | ESPN 4
-http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png" , HOL | ESPN 5
-http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" , STADIUM
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxe3-UdiiWf20u2lHpUJzphvBbSoFdGaPe2g&usqp=CAU" , F1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxe3-UdiiWf20u2lHpUJzphvBbSoFdGaPe2g&usqp=CAU" , Rtsh Sport
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/Se1a8Mm.png" , AutoMoto (Bumblebee) (720p)
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71302/s71302_h3_aa.png" , Cars.TV (720p)
-https://bozztv.com/teleyupp/teleup-carstv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87t5fUdh8TWS7AjBnAmcU4LUdRN0TAzubQ&usqp=CAU" , BTSPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87t5fUdh8TWS7AjBnAmcU4LUdRN0TAzubQ&usqp=CAU" , BTSPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87t5fUdh8TWS7AjBnAmcU4LUdRN0TAzubQ&usqp=CAU" , BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" ,CANAL+ SPORT
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" , ????! ?????? 1 HD
-https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" , ????! ?????? 2 HD
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" , ????! ?????? 3 HD
-https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo=
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" , Football 1 Ukraine
-https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQ
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" , Football 2 Ukraine
-https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" , beIN Sport 1
-http://sos.moukrasa.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 2
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 3
-http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 4
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 5
-http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 6
-http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 7
-http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" , beIN Sport 1 FR
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" , beIN Sport 2 FR
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" , beIN Sport 3 FR
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" , beIN Sport Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/Zn4ffN3T/Sky-Sport-1.png" , Sky Sport 1 HD
-http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6Mjk6NDggQU0maGFzaF92YWx1ZT1FT1VCWlk0VXJHMmxuSHBLelBBbi9nPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/ZRLTcNH4/Sky-Sport-2.png" , Sky Sport 2 HD
-http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzA6MzMgQU0maGFzaF92YWx1ZT1Ia29XQmpZZEJsTENuU2VWbkFZTnd3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+<!##########################################################################
+<!######################## RCTI+ CHANNELS GROUP ############################
+<!##########################################################################
+
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1",RCTI
+https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/HJHmRAh.png?v=1.1.1.1",MNC TV
+https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1",GTV
+https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
+#EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1",iNews
+https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
