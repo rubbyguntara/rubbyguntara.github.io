@@ -5,7 +5,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-url"http://www.transvision.co.id" tvg-logo="https://rubbyguntara.github.io/src/img/CNN%2BIndonesia.png" group-title="Lokal",CNN Indonesia
+#EXTINF:0 tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-url"http://www.transvision.co.id" tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="Lokal",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -115,6 +115,12 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvri.png" group-title="Lokal",TVRI Nasional
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 # https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/tvri.png" group-title="Lokal",TVRI Sport HD
+# http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -929,14 +935,16 @@ https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
 
 <!##########################################################################
-<!######################## TVRI CHANNELS GROUP #############################
+<!######################## SCTV CHANNELS GROUP #############################
 <!##########################################################################
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sport" tvg-logo="" group-title="TVRI",TVRI Sport 1
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdKAFIDtQsSzOGpNd6H-5OF/ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sport" tvg-logo="" group-title="TVRI",TVRI Sport 2
-http://rr2.dens.tv/s/s107/index1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sport" tvg-logo="" group-title="TVRI",TVRI Sport 3
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sport" tvg-logo="" group-title="TVRI",TVRI Sport 4
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdKAFIDtQsSzOGpNd6H-5OF/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCTV" tvg-logo="" group-title="SCTV",SCTV 1
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W4hGmDcxx-FmVmg5cYFG0nJ/ts
+#EXTINF:-1 group-title="SCTV",SCTV 2
+https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SCTV", SCTV 3
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" ,SCTV 4
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF: group-title="SCTV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV 5
+http://rr2.dens.tv/s/s03/index.m3u8
