@@ -335,19 +335,22 @@ https://ktiptv.co:443/1234/1234/26318
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Champions TV 1
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+# http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
 # https://dik.si/champion1?shareext.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_2.png",Champions TV 2
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+# http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
 # https://etus.link/champ2roll?shareext.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_3.png",Champions TV 3
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+# http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 # https://etus.link/champ3roll?shareext.m3u8
 
 <!##########################################################################
@@ -418,6 +421,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mkidz.jpg",My Kidz
 http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/horee.png",Horee
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_cstbIN6BrkEOZuWXGfEqng/ts
 
 <!##########################################################################
 <!####################### LIFESTYLE CHANNELS GROUP #########################
@@ -688,3 +693,14 @@ https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1",iNews
 https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
+
+<!##########################################################################
+<!######################## VIDIO CHANNELS GROUP ############################
+<!##########################################################################
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_1.png",Champions TV 1
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_2.png",Champions TV 2
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_3.png",Champions TV 3
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
