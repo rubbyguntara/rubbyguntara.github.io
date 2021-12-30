@@ -115,6 +115,14 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/cnbcindonesia.png",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mytv.png",My TV
+http://rr3.dens.tv/s/s88/index2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_1.png",Champion TV 1
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D0vFlVFHO8GCyPOGs-jn/ts
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_2.png",Champion TV 2
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/citra_dangdut.png",Citra Dangdut
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjSPo6uTidv3vm_M-8rwUdHV/ts
 
 
 <!##########################################################################
@@ -199,12 +207,16 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/bflix.png",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Cinemax.ph.png",Cinemax Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://link.zozotv.xyz:443/707070/707070/107
+# https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hbo.png",HBO Asia
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSsbx0i0EB4yktoAR5dDU5d2/ts
+# https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hbofamily.png",HBO Family Asia
@@ -265,6 +277,22 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/zeebioskop.png",Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kplus.png",Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mca.jpg",My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcu.jpg",My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mfc.jpg",My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/onetvasia-logo.png",ONE
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/galaxy.jpeg",Galaxy
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_dcW6EBD_4xal3qm4r0RTk5/ts
 
 <!##########################################################################
 <!######################## SPORTS CHANNELS GROUP ###########################
@@ -388,6 +416,8 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png",Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mkidz.jpg",My Kidz
+http://rr.dens.tv/h/h191/index.m3u8
 
 <!##########################################################################
 <!####################### LIFESTYLE CHANNELS GROUP #########################
@@ -446,6 +476,8 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvn.png",TVN Premium Indonesia
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+# http://rr1.dens.tv/h/h20/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
@@ -478,6 +510,10 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/nhkpremium.png",NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Entertainment.png",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png",Rock Extreme
+http://rr1.dens.tv/h/h15/index.m3u8
 
 <!##########################################################################
 <!###################### KNOWLEDGE CHANNELS GROUP ##########################
