@@ -23,7 +23,9 @@ https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rcti.png",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+# https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd remarked on 08.01.2022
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/gtv.png",GTV
@@ -37,11 +39,11 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/inews.png",INews
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/trans7.png",Trans 7
-https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
-# https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+# https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8 remarked on 08.01.2022
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/transtv.png",Trans TV
-https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
-# https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+# https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8 remarked on 08.01.2022
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -686,7 +688,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 <!##########################################################################
 
 #EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+# https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8    remarked on 08.01.2022
 #EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/HJHmRAh.png?v=1.1.1.1",MNC TV
 https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 #EXTINF:-1 group-title="RCTI+" tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1",GTV
