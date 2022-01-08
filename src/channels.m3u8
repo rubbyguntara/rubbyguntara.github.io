@@ -12,13 +12,13 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/net.png",NET
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png",Indosiar
-https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
-# http://rr2.dens.tv/s/s04/index.m3u8
-# https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+# https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8 remarked on 08.01.2022
+http://rr2.dens.tv/s/s04/index.m3u8
+# https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd remarked on 08.01.2022
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
-https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
-# http://rr2.dens.tv/s/s03/index.m3u8
-# https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+# https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
+http://rr2.dens.tv/s/s03/index.m3u8
+# https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd remarked on 08.01.2022
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
