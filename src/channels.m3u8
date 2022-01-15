@@ -213,14 +213,18 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Cinemax.ph.png",Cinemax Asia
 # EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://link.zozotv.xyz:443/707070/707070/107
-# https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+# https://link.zozotv.xyz:443/707070/707070/107 remarked on 15.01.2022
+# https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 remarked on 15.01.2022
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hbo.png",HBO Asia
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSsbx0i0EB4yktoAR5dDU5d2/ts
-# https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+# http://www.goldentv.tech:25461/Perfecto/170721/24990 remarked on 15.01.2022
+# https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1639554880~hmac=cc5553462221f0be74b4e897ce64eaf95dad2dc89d3b3d6290fbbfdf239862f3 remarked on 15.01.2022
+# http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSsbx0i0EB4yktoAR5dDU5d2/ts remarked on 15.01.2022
+# https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd remarked on 15.01.2022
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
