@@ -765,10 +765,56 @@ https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 <!##########################################################################
 <!######################## RADIO CHANNELS GROUP ############################
 <!##########################################################################
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" ,Gen FM Jakarta
-# https://wz.mari.co.id:1936/web_genfm/genfm/chunklist_w934232329.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/genfm.jpg",Gen FM Jakarta
 https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" ,Radio Prambors Live
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/iradio.jpg",i-Radio
+https://stream.radiojar.com/4ywdgup3bnzuv?1643799032
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/prambors.jpg",Radio Prambors Live
 https://23683.live.streamtheworld.com/PRAMBORS_FM.mp3?dist=pramborsweb&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=300x250&sbmid=07edcb6d-b035-4510-c57b-e15a531c94de
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" ,Delta FM
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/elshinta.jpg",Elshinta 90 FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/ardan.jpg",Ardan Radio
+http://listento.ardanradio.com:1059/stream?icy=http
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mgtradio.jpg",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indika.jpg",Indika 91.60 FM
+https://s2.radio.co/sf58a82d7d/listen
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/kisfm.jpg",Kis FM
+https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/deltafm.jpg",Delta FM
 http://live.masima.cloud:9002/deltafm
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/hardrock.jpg",Hard Rock FM
+https://stream.radiojar.com/7csmg90fuqruv.mp3?1643800690
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/cakra.jpg",Radio Cakra
+http://dengerin.radiocakrabandung.com:8905/stream/1/
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/jakfm.jpg",Jak FM
+https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/bahanafm.jpg",Bahana FM
+http://live.masima.cloud:8100/stream/1/
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/trax.jpg",TRAX
+https://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/cosmopolitan.jpg",Cosmopolitan Radio
+https://stream.radiojar.com/u7d8heq3bnzuv
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/paramuda.jpg",Paramuda FM
+http://115.178.48.43:9990/;
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/femalefm.jpg",Female FM
+https://23683.live.streamtheworld.com/FEMALERADIO_SC
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/bravaradio.jpg",Brava Radio
+https://stream.radiojar.com/5k7t0rq3bnzuv
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mostfm.jpg",Most FM
+https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/hotfm.jpg",Hot FM
+https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/dahliafm.jpg",Dahlia FM
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/ramafm.jpg",Rama FM
+http://rama-fm.simaya.net.id:8800/stream/1/
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mustangfm.jpg",Mustang FM
+https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/urbanfm.jpg",Urban Radio
+https://live.indostreamserver.com/8250/stream
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/oz.png",OZ Radio
+http://s3.vinhostmedia.com:1031/;
+
+
+
