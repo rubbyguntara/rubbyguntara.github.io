@@ -766,7 +766,8 @@ https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 <!######################## RADIO CHANNELS GROUP ############################
 <!##########################################################################
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" ,Gen FM Jakarta
-https://wz.mari.co.id:1936/web_genfm/genfm/chunklist_w934232329.m3u8
+# https://wz.mari.co.id:1936/web_genfm/genfm/chunklist_w934232329.m3u8
+https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" ,Radio Prambors Live
 https://23683.live.streamtheworld.com/PRAMBORS_FM.mp3?dist=pramborsweb&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=300x250&sbmid=07edcb6d-b035-4510-c57b-e15a531c94de
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" ,Delta FM
