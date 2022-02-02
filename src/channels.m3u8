@@ -762,5 +762,5 @@ https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mytv.png",My TV
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="RADIO" tvg-url"" ,Paramuda
-http://radioonline.co.id/play/paramuda-fm/
+#EXTINF:0 tvg-id="" tvg-name="" group-title="RADIO" tvg-url"" ,Delta FM
+http://live.masima.cloud:9002/deltafm
