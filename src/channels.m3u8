@@ -106,7 +106,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/metrotv.png",Metro TV
 # https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd remarked on 22.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/164.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/164.m3u8 remarked on 23.02.2022
+http://mantul.biz.id:8888/live/Arkan/54647/214.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/kompastv.png",Kompas TV
