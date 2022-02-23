@@ -16,7 +16,8 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # http://rr2.dens.tv/s/s04/index.m3u8 remarked on 02.02.2022
 # https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd remarked on 08.01.2022
 # https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999 remarked on 22.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/60.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/60.m3u8 remarked on 23.02.2022
+http://mantul.biz.id:8888/live/Arkan/54647/5286.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
 # https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
 # http://rr2.dens.tv/s/s03/index.m3u8 remarked on 02.02.2022
