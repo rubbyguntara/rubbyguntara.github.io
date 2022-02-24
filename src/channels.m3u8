@@ -18,7 +18,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999 remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/60.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/5286.m3u8 remarked on 24.02.2022
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
 # https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
 # http://rr2.dens.tv/s/s03/index.m3u8 remarked on 02.02.2022
@@ -27,7 +27,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 # http://mantul.biz.id:8888/live/Arkan/54647/32.m3u8 remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/14856.m3u8 remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/432.m3u8 remarked on 24.02.2022
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -56,7 +56,7 @@ https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 # https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8 remarked on 08.01.2022
 # https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/6538.m3u8 remarked on 24.02.2022
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -64,7 +64,7 @@ http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 # https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8 remarked on 08.01.2022
 # https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/6543.m3u8 remarked on 24.02.2022
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -115,7 +115,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 # https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/164.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/214.m3u8 remarked on 24.02.2022
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+https://cubmu.superzap.xyz:8279/metrotv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -787,9 +787,11 @@ https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 # http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8 remarked 15.01.2022
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png",Indosiar
 # http://tvnasional.mobie.in/M3U8/205.m3u8 remarked on 02.02.2022
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+# https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999 remarked on 24.02.2022
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+# https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999 remarked on 24.02.2022
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/kompastv.png",Kompas TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Ochannel.png",O Channel
@@ -806,6 +808,9 @@ https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mytv.png",My TV
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/trans7.png",Trans 7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f16a41c2a2a7270517f5ce8dd2f48fc68d
+
 
 <!##########################################################################
 <!######################## RADIO CHANNELS GROUP ############################
