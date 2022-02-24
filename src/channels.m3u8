@@ -324,7 +324,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kplus.png",K+
 # http://rr.dens.tv/h/h08/index.m3u8 remarked on 03.02.2022
 # http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/76.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/76.m3u8 remarked on 24.02.2022
+http://zalogitv.tech:8080/cubocubo/12345/1407
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
@@ -347,9 +348,13 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/galaxy.jpeg",Galaxy
 # http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_dcW6EBD_4xal3qm4r0RTk5/ts remarked on 23.02.2022
 http://mantul.biz.id:8888/live/Arkan/54647/298.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/galaxy.jpeg",Galaxy Premium
 # http://mantul.biz.id:8888/live/Arkan/54647/1012.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/296.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/296.m3u8 remarked on 24.02.2022
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 <!##########################################################################
 <!######################## SPORTS CHANNELS GROUP ###########################
@@ -396,8 +401,9 @@ https://on-load.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 # https://ktiptv.co:443/1234/1234/26318 remarked on 15.01.2022
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Spotv-2.png",SPO TV 2
 # https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/6560.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/6560.m3u8 remarked on 24.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/15858.m3u8 remarked on 23.02.2022
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
