@@ -19,7 +19,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # http://mantul.biz.id:8888/live/Arkan/54647/60.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/5286.m3u8 remarked on 24.022.2022
 # http://tvn.x10.bz/vidio/master.m3u8 remarked on 03.03.2022
-http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
 # https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
 # http://rr2.dens.tv/s/s03/index.m3u8 remarked on 02.02.2022
@@ -28,7 +28,8 @@ http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/
 # http://mantul.biz.id:8888/live/Arkan/54647/32.m3u8 remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/14856.m3u8 remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/432.m3u8 remarked on 24.02.2022
-http://tvn.x10.bz/vidio/master-24.m3u8
+# http://tvn.x10.bz/vidio/master-24.m3u8 remarked on 03.03.2022
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
