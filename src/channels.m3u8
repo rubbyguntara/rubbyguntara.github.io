@@ -166,7 +166,8 @@ http://tvn.x10.bz/vidio/master-10.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tic.png",The Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rans.png",Rans Entertainment
-http://tvn.x10.bz/vidio/master-21.m3u8
+# http://tvn.x10.bz/vidio/master-21.m3u8 remarked on 03.03.2022
+http://108.136.37.52/m3u8/vid_Rans_Channel.m3u8
 
 <!##########################################################################
 <!######################### NEWS CHANNELS GROUP ############################
@@ -330,7 +331,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 # http://rr.dens.tv/h/h08/index.m3u8 remarked on 03.02.2022
 # http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/76.m3u8 remarked on 24.02.2022
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+# https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8 remarked on 03.03.2022
+http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
@@ -347,6 +349,9 @@ http://mantul.biz.id:8888/live/Arkan/54647/9.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/onetvasia-logo.png",ONE
 # http://rr.dens.tv/h/h143/index.m3u8 remarked on 23.02.2022
 http://mantul.biz.id:8888/live/Arkan/54647/29.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
 # http://rr1.dens.tv/h/h21/index.m3u8 remarked on 23.02.2022
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
