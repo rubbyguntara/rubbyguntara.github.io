@@ -82,6 +82,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/antv.png",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+# http://tvn.x10.bz/xchannel/master-12.m3u8 remarked on 10.03.2022
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tvone.png",TVOne
@@ -142,7 +143,8 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/nusantara.png",Nusantara TV
 # https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/701.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/701.m3u8 remarked on 10.03.2022
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Ochannel.png",O Channel
 # https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/8251.m3u8 remarked on 10.03.2022
@@ -167,17 +169,30 @@ http://tvn.x10.bz/xchannel/master-6.m3u8
 http://tvn.x10.bz/xchannel/master-7.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_3.png",Champions TV 3
 http://tvn.x10.bz/xchannel/master-8.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_2.png",Champions TV 4
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_4.png",Champions TV 4
 http://tvn.x10.bz/xchannel/master-17.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/citra_dangdut.png",Citra Dangdut
 # http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjSPo6uTidv3vm_M-8rwUdHV/ts remarked on 22.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/301.m3u8 remarked on 24.02.2022
-http://tvn.x10.bz/vidio/master-10.m3u8
+# http://tvn.x10.bz/vidio/master-10.m3u8 remarked on 10.03.2022
+http://tvn.x10.bz/xchannel/master-10.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tic.png",The Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rans.png",Rans Entertainment
 # http://tvn.x10.bz/vidio/master-21.m3u8 remarked on 03.03.2022
-http://108.136.37.52/m3u8/vid_Rans_Channel.m3u8
+# http://108.136.37.52/m3u8/vid_Rans_Channel.m3u8 remarked on 10.03.2022
+http://tvn.x10.bz/xchannel/master-21.m3u8
+
+# #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="MOVIE",CitraMuslim
+# http://tvn.x10.bz/xchannel/master-9.m3u8
+# #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="MOVIE",CitraDangdut
+# http://tvn.x10.bz/xchannel/master-10.m3u8
+# #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="MOVIE",CitraEntertainmend
+# http://tvn.x10.bz/xchannel/master-11.m3u8
+# #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="MOVIE",CitraBioskop
+# http://tvn.x10.bz/xchannel/master-1.m3u8
+# #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="MOVIE",CitraDrama
+# http://tvn.x10.bz/xchannel/master-2.m3u8
 
 <!##########################################################################
 <!######################### NEWS CHANNELS GROUP ############################
@@ -280,6 +295,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hbofamily.png",HBO Family Asia
+# http://shareext@urtv.cc:80/live/297340/297340/7070.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -288,34 +304,47 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hbosig.png",HBO Signature Asia
+# http://shareext@urtv.cc:80/live/297340/297340/7069.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/red.png",Red by HBO
+http://shareext@urtv.cc:80/live/297340/297340/7071.ts?Shareext.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hits.png",Hits
+# http://group2-swiftservehd-1.dens.tv/h/h37/01.m3u8 remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/hitsmovies.png",Hits Movies
+# http://shareext@urtv.cc:80/live/297340/297340/7066.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/axn.png",AXN East Asia
+# http://shareext@urtv.cc:80/live/297340/297340/7223.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kix.png",Kix
+# http://group2-swiftservehd-1.dens.tv/h/h07/01.m3u8 remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/thrill.png",Thrill
+# http://shareext@urtv.cc:80/live/297340/297340/7220.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/warner.png",Warner TV Southeast Asia
+# http://shareext@urtv.cc:80/live/297340/297340/7072.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/cinemaworld.png",Cinema World
+# http://group2-swiftservehd-1.dens.tv/h/h04/01.m3u8 remarked on 10.03.2022
+# http://shareext@urtv.cc:80/live/297340/297340/7219.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -342,39 +371,53 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 # http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/76.m3u8 remarked on 24.02.2022
 # https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8 remarked on 03.03.2022
-http://210.210.155.35/uq2663/h/h08/01.m3u8
+# http://210.210.155.35/uq2663/h/h08/01.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
 # http://rr.dens.tv/h/h192/index.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/18.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/18.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h192/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mca.jpg",My Cinema Asia
 # http://rr.dens.tv/h/h193/index.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/13.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/13.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h193/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcu.jpg",My Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
+# http://rr.dens.tv/h/h18/index.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mfc.jpg",My Family Channel
 # http://rr.dens.tv/h/h194/index.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/9.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/9.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/onetvasia-logo.png",ONE
 # http://rr.dens.tv/h/h143/index.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/29.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/29.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h143/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
 # http://rr1.dens.tv/h/h21/index.m3u8 remarked on 23.02.2022
+# http://tvn.x10.bz/xchannel/master-16.m3u8 remarked on 10.03.2022
+# http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8 remarked on 10.03.2022
+# http://shareext@urtv.cc:80/live/297340/297340/7074.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/galaxy.jpeg",Galaxy
 # http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_dcW6EBD_4xal3qm4r0RTk5/ts remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/298.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/298.m3u8 remarked on 10.03.2022
+http://shareext@urtv.cc:80/live/297340/297340/8839.ts?Shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/galaxy.jpeg",Galaxy Premium
 # http://mantul.biz.id:8888/live/Arkan/54647/1012.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/296.m3u8 remarked on 24.02.2022
+# http://shareext@urtv.cc:80/live/297340/297340/8838.ts?Shareext.ts remarked on 10.03.2022
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg",GEM
+http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
 
 <!##########################################################################
 <!######################## SPORTS CHANNELS GROUP ###########################
@@ -454,6 +497,9 @@ http://tvn.x10.bz/xchannel/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png",BRI Liga 1 Indosiar (Vidio)
 http://tvnasional.mobie.in/M3U8/205.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/lfctv.png",LFCTV
+http://tvn.x10.bz/xchannel/master-3.m3u8
+
 <!##########################################################################
 <!######################### KIDS CHANNELS GROUP ############################
 <!##########################################################################
@@ -493,7 +539,8 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/aniplus.png",Aniplus
 # http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8 remarked on 23.02.2022
-http://mantul.biz.id:8888/live/Arkan/54647/265.m3u8
+# http://mantul.biz.id:8888/live/Arkan/54647/265.m3u8 remarked on 10.03.2022
+http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/miaomi.png",Miao Mi
@@ -526,9 +573,13 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png",Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mkidz.jpg",My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+# http://rr.dens.tv/h/h191/index.m3u8 remarked on 10.03.2022
+http://group1-swiftservehd-1.dens.tv/h/h191/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/horee.png",Horee
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_cstbIN6BrkEOZuWXGfEqng/ts
+# http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_cstbIN6BrkEOZuWXGfEqng/ts remarked on 10.03.2022
+http://tvn.x10.bz/xchannel/master-5.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/horee.png",Hip Hip Horee!
+http://tvn.x10.bz/xchannel/master-4.m3u8
 
 <!##########################################################################
 <!####################### LIFESTYLE CHANNELS GROUP #########################
@@ -590,6 +641,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvn.png",TVN Premium Indonesia
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 # http://rr1.dens.tv/h/h20/index.m3u8
+# http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -624,9 +676,11 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/nhkpremium.png",NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Entertainment.png",Rock Entertainment
-http://rr1.dens.tv/h/h16/index.m3u8
+# http://rr1.dens.tv/h/h16/index.m3u8 remarked on 10.03.2022
+http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png",Rock Extreme
-http://rr1.dens.tv/h/h15/index.m3u8
+# http://rr1.dens.tv/h/h15/index.m3u8 remarked on 10.03.2022
+http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
 <!##########################################################################
 <!###################### KNOWLEDGE CHANNELS GROUP ##########################
@@ -821,7 +875,7 @@ http://tvn.x10.bz/xchannel/master-7.m3u8
 # https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8 remarked on 10.03.2022
 # http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8 remarked 15.01.2022
 http://tvn.x10.bz/xchannel/master-8.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_3.png",Champions TV 4
+#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_4.png",Champions TV 4
 http://tvn.x10.bz/xchannel/master-17.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png",Indosiar
 # http://tvnasional.mobie.in/M3U8/205.m3u8 remarked on 02.02.2022
