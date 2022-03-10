@@ -378,22 +378,22 @@ http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
 # http://rr.dens.tv/h/h192/index.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/18.m3u8 remarked on 10.03.2022
-http://group1-swiftservehd-1.dens.tv/h/h192/01.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h192/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mca.jpg",My Cinema Asia
 # http://rr.dens.tv/h/h193/index.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/13.m3u8 remarked on 10.03.2022
-http://group1-swiftservehd-1.dens.tv/h/h193/01.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h193/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcu.jpg",My Cinema Europe
 # http://rr.dens.tv/h/h18/index.m3u8 remarked on 10.03.2022
-http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mfc.jpg",My Family Channel
 # http://rr.dens.tv/h/h194/index.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/9.m3u8 remarked on 10.03.2022
-http://group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h194/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/onetvasia-logo.png",ONE
 # http://rr.dens.tv/h/h143/index.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/29.m3u8 remarked on 10.03.2022
-http://group1-swiftservehd-1.dens.tv/h/h143/01.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h143/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
