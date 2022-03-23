@@ -43,7 +43,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 # https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8 remarked on 15.01.2022
 # https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd remarked on 08.01.2022
 # https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8 remarked on 23.03.2022
-http://tvn.x10.bz/xchannel/master-34.m3u8
+# http://tvn.x10.bz/xchannel/master-34.m3u8 remarked on 23.03.2022
+https://liveanevia.mncnow.id:443/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
