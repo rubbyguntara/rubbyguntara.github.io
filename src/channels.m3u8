@@ -6,6 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png",CNN Indonesia
+# http://tvn.x10.bz/xchannel/master-32.m3u8 remarked on 23.03.2022
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -32,6 +33,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 # http://mantul.biz.id:8888/live/Arkan/54647/432.m3u8 remarked on 24.02.2022
 # http://tvn.x10.bz/vidio/master-24.m3u8 remarked on 03.03.2022
 # http://108.136.37.52/m3u8/vid_SCTV.m3u8?token=bukuansctv remarked on 10.03.2022
+# http://tvn.x10.bz/xchannel/master-24.m3u8 remarked on 23.03.2022
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -40,22 +42,28 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 # https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd remarked on 03.03.2022
 # https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8 remarked on 15.01.2022
 # https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd remarked on 08.01.2022
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+# https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8 remarked on 23.03.2022
+http://tvn.x10.bz/xchannel/master-34.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/gtv.png",GTV
+# http://tvn.x10.bz/xchannel/master-35.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mnctv.png",MNC TV
+# http://tvn.x10.bz/xchannel/master-36.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/inews.png",INews
 # https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd remarked on 03.03.2022
 # https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd remarked on 15.01.2022
+# http://tvn.x10.bz/xchannel/master-37.m3u8 remarked on 23.03.2022
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -80,6 +88,7 @@ http://tvn.x10.bz/xchannel/master-31.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rtv.png",RTV
+# http://tvn.x10.bz/xchannel/master-20.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -89,6 +98,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tvone.png",TVOne
+# http://tvn.x10.bz/xchannel/master-13.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -128,11 +138,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 # http://mantul.biz.id:8888/live/Arkan/54647/164.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/214.m3u8 remarked on 24.02.2022
 # http://tvn.x10.bz/vidio/master-23.m3u8
+# http://tvn.x10.bz/xchannel/master-23.m3u8 remarked on 23.03.2022
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/kompastv.png",Kompas TV
+# http://tvn.x10.bz/xchannel/master-19.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -159,6 +171,7 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/ugtv.png",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/cnbcindonesia.png",CNBC INDONESIA
+# http://tvn.x10.bz/xchannel/master-33.m3u8 remarked on 23.03.2022
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mytv.png",My TV
 # http://rr3.dens.tv/s/s88/index2.m3u8 remarked on 03.02.2022
@@ -185,6 +198,11 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 # http://tvn.x10.bz/vidio/master-21.m3u8 remarked on 03.03.2022
 # http://108.136.37.52/m3u8/vid_Rans_Channel.m3u8 remarked on 10.03.2022
 http://tvn.x10.bz/xchannel/master-21.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tempo.png",Tempo TV
+http://tvn.x10.bz/xchannel/master-27.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tvedukasi.png",TV Edukasi
+http://tvn.x10.bz/xchannel/master-17.m3u8
 
 # #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="MOVIE",CitraMuslim
 # http://tvn.x10.bz/xchannel/master-9.m3u8
@@ -368,6 +386,7 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/zeebioskop.png",Zee Bioskop
+# http://tvn.x10.bz/xchannel/master-15.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kplus.png",K+
 # http://rr.dens.tv/h/h08/index.m3u8 remarked on 03.02.2022
@@ -583,6 +602,10 @@ http://group1-swiftservehd-1.dens.tv/h/h191/01.m3u8
 http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/horee.png",Hip Hip Horee!
 http://tvn.x10.bz/xchannel/master-4.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/zoomoo.png",ZooMoo
+http://tvn.x10.bz/xchannel/master-25.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mentari.png",Mentari TV
+http://tvn.x10.bz/xchannel/master-22.m3u8
 
 <!##########################################################################
 <!####################### LIFESTYLE CHANNELS GROUP #########################
@@ -649,6 +672,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
+# http://tvn.x10.bz/xchannel/master-16.m3u8 remarked on 23.03.2022
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -816,6 +840,8 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name=""  group-title="Religi" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/madinah.png",AL Sunnah Nabawi 3
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+#EXTINF:0 tvg-id="" tvg-name=""  group-title="Religi" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/ajwa.png",Ajwa TV
+http://tvn.x10.bz/xchannel/master-14.m3u8
 
 <!##########################################################################
 <!######################## MUSIC CHANNELS GROUP ############################
@@ -832,7 +858,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/densshowbiz.png",Dens ShowBiz
 http://rr3.dens.tv/s/s35/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/musica.png",MUSICA
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
+# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d remarked on 23.03.2022
+http://tvn.x10.bz/xchannel/master-26.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/maleo.png",MALEO
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/vevo.png",Vevo HipHop
@@ -956,13 +983,16 @@ https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/dahliafm.jpg",Dahlia FM
 https://svara-stream.radioddns.net:8443/bandung_dahliafm
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/ramafm.jpg",Rama FM
-http://rama-fm.simaya.net.id:8800/stream/1/
+# http://rama-fm.simaya.net.id:8800/stream/1/ remarked on 23.03.2022
+http://tvn.x10.bz/xchannel/master-29.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mustangfm.jpg",Mustang FM
 https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/urbanfm.jpg",Urban Radio
 https://live.indostreamserver.com/8250/stream
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/oz.png",OZ Radio
 http://s3.vinhostmedia.com:1031/;
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Radio" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/nagaswara.png",TMN Nagaswara
+http://tvn.x10.bz/xchannel/master-28.m3u8
 
 
 
