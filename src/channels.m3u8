@@ -866,7 +866,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://rr3.dens.tv/s/s35/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/musica.png",MUSICA
 # http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d remarked on 23.03.2022
-http://tvn.x10.bz/xchannel/master-26.m3u8
+# http://tvn.x10.bz/xchannel/master-26.m3u8 remarked on 03.04.2022
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/maleo.png",MALEO
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Music" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/vevo.png",Vevo HipHop
