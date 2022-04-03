@@ -491,13 +491,15 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/spotv.png",SPO TV
 # https://on-load.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd remarked on 10.03.2022
 # https://ktiptv.co:443/1234/1234/26318 remarked on 15.01.2022
-https://indositusx.com/link/use.m3u8?id=spotv
+# https://indositusx.com/link/use.m3u8?id=spotv remarked on 03.04.2022
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Spotv-2.png",SPO TV 2
 # https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/6560.m3u8 remarked on 24.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/15858.m3u8 remarked on 23.02.2022
 # https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd remarked on 10.03.2022
-https://indositusx.com/link/use.m3u8?id=spotv2
+# https://indositusx.com/link/use.m3u8?id=spotv2 remarked on 23.04.2022
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
