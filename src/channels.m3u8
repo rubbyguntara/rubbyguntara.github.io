@@ -21,7 +21,8 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # http://mantul.biz.id:8888/live/Arkan/54647/5286.m3u8 remarked on 24.02.2022
 # http://tvn.x10.bz/vidio/master.m3u8 remarked on 03.03.2022
 # http://108.136.37.52/m3u8/vid_Indosiar.m3u8?token=bukuanindosiar remarked on 10.03.2022
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51 remarked on 16.10.2022
+http://rr2.dens.tv/s/s04/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
 # https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
@@ -413,7 +414,8 @@ http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
 # http://rr.dens.tv/h/h192/index.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/18.m3u8 remarked on 10.03.2022
-http://group2-swiftservehd-1.dens.tv/h/h192/01.m3u8
+# http://group2-swiftservehd-1.dens.tv/h/h192/01.m3u8 remarked on 16.10.2022
+http://rr2.dens.tv/h/h192/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mca.jpg",My Cinema Asia
 # http://rr.dens.tv/h/h193/index.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/13.m3u8 remarked on 10.03.2022
