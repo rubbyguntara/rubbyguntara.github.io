@@ -34,7 +34,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 # http://tvn.x10.bz/vidio/master-24.m3u8 remarked on 03.03.2022
 # http://108.136.37.52/m3u8/vid_SCTV.m3u8?token=bukuansctv remarked on 10.03.2022
 # http://tvn.x10.bz/xchannel/master-24.m3u8 remarked on 23.03.2022
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51 remarked on 16.10.2022
+http://rr2.dens.tv/s/s03/index.m3u8
+# http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
