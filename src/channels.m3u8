@@ -72,7 +72,10 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 # https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8 remarked on 03.04.2022
 # http://tvn.x10.bz/xchannel/master-37.m3u8 remarked on 03.04.2022
 # https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 http://iptvid.my.id/hmm/inews.m3u8
+https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-mp4a_64000=2-avc1_100000=7.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
