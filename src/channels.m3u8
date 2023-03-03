@@ -511,7 +511,8 @@ http://group2-swiftservehd-1.dens.tv/h/h143/01.m3u8
 # http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8 remarked on 10.03.2022
 # http://shareext@urtv.cc:80/live/297340/297340/7074.ts?Shareext.ts remarked on 10.03.2022
 # https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd remarked on 09.12.2022
-https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+# https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd remarked on 03.03.2023
+http://210.210.155.35/session/21cef356-8880-11ed-b03c-b82a72d63267/dr9445/h/h21/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/galaxy.jpeg",Galaxy
 # http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_dcW6EBD_4xal3qm4r0RTk5/ts remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/298.m3u8 remarked on 10.03.2022
@@ -790,16 +791,18 @@ https://av-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertain
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvn.png",TVN Premium Indonesia
 # https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd remarked on 09.12.2022
-https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+# https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd remarked on 03.03.2023
 # http://rr1.dens.tv/h/h20/index.m3u8
 # http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
 # http://tvn.x10.bz/xchannel/master-16.m3u8 remarked on 23.03.2022
 # https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd remarked on 09.12.2022
-https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+# https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd remarked on 03.03.2023
+http://210.210.155.35/session/21cef356-8880-11ed-b03c-b82a72d63267/dr9445/h/h21/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/anhuitv.png",Anhui TV
