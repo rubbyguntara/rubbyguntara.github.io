@@ -26,9 +26,10 @@ https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # http://tvn.x10.bz/vidio/master.m3u8 remarked on 03.03.2022
 # http://108.136.37.52/m3u8/vid_Indosiar.m3u8?token=bukuanindosiar remarked on 10.03.2022
 # http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51 remarked on 16.10.2022
-http://rr2.dens.tv/s/s04/index.m3u8
 # http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 # http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+# http://rr2.dens.tv/s/s04/index.m3u8 remarked on 03.03.2023
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
 # https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
@@ -42,8 +43,9 @@ http://rr2.dens.tv/s/s04/index.m3u8
 # http://108.136.37.52/m3u8/vid_SCTV.m3u8?token=bukuansctv remarked on 10.03.2022
 # http://tvn.x10.bz/xchannel/master-24.m3u8 remarked on 23.03.2022
 # http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51 remarked on 16.10.2022
-http://rr2.dens.tv/s/s03/index.m3u8
 # http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+# http://rr2.dens.tv/s/s03/index.m3u8 remarked on 03.03.2023
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -198,8 +200,9 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/nusantara.png",Nusantara TV
 # https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/701.m3u8 remarked on 10.03.2022
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Ochannel.png",O Channel
+# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/moji.png",Moji TV
 # https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/8251.m3u8 remarked on 10.03.2022
 # http://tvn.x10.bz/xchannel/master-18.m3u8 remarked on 09.12.2022
@@ -1068,7 +1071,7 @@ http://tvn.x10.bz/xchannel/master.m3u8
 http://tvn.x10.bz/xchannel/master-24.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/kompastv.png",Kompas TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
-#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Ochannel.png",O Channel
+#EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/moji.png",Moji TV
 # https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999 remarked on 10.03.2022
 http://tvn.x10.bz/xchannel/master-18.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="VIDIO" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/metrotv.png",Metro TV
