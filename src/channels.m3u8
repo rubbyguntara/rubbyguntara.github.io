@@ -206,7 +206,8 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 # https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/8251.m3u8 remarked on 10.03.2022
 # http://tvn.x10.bz/xchannel/master-18.m3u8 remarked on 09.12.2022
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+# http://210.210.155.35/qwr9ew/s/s41/01.m3u8 remarked on 03.03.2023
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rrinet.png",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tvparlemen.png",TV PARLEMEN
