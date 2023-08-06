@@ -31,7 +31,8 @@ https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 # http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 # http://rr2.dens.tv/s/s04/index.m3u8 remarked on 03.03.2023
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+# http://mpwtv.my.id/vidioye/205-indosiar.m3u8 remarked on 06.08.2023
+https://newanv-live-cdn.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png",SCTV
 # https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8 remarked on 08.01.2022
