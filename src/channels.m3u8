@@ -599,9 +599,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 # https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8 remarked on 03.03.2022
 # http://210.210.155.35/uq2663/h/h08/01.m3u8 remarked on 10.03.2022
 # http://group2-swiftservehd-1.dens.tv/h/h08/01.m3u8 
-http://rr2.dens.tv/h/h08/index.m3u8
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-# http://210.210.155.37/uq2663/h/h08/index.m3u8
+# http://rr2.dens.tv/h/h08/index.m3u8 remarked on 26.09.2023
+# http://210.210.155.35/uq2663/h/h08/index.m3u8 remarked on 26.09.2023
+http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
@@ -734,6 +734,9 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 # https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd remarked on 03.03.2023
 # https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd remarked on 26.09.2023
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Sports" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Spotv-2.png",SPO TV 2
 # https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8 remarked on 23.02.2022
 # http://mantul.biz.id:8888/live/Arkan/54647/6560.m3u8 remarked on 24.02.2022
