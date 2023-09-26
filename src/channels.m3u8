@@ -17,6 +17,9 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 # https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd remarked on 03.03.2023
 # https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd remarked on 03.03.2023
 https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/indosiar.png",Indosiar
 # https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8 remarked on 08.01.2022
@@ -127,7 +130,7 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 # https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd remarked on 03.03.2023
 # https://anevia115.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd remarked on 22.09.2023
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
-
+       
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rtv.png",RTV
