@@ -55,6 +55,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rcti.png",RCTI
 # https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd remarked on 03.03.2022
 # https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8 remarked on 15.01.2022
@@ -66,8 +67,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 # https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd remarked on 03.03.2023
 # https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd remarked on 26.09.2023
 # https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd remarked on 12.10.2023
-# http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8 remarked on 16.10.2023
-http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+# https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8 remarked on 16.10.2023
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
