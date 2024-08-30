@@ -171,3 +171,4 @@ function parseCookies(headers) {
   }
   return cookies.length ? cookies.join('; ') : null
 }
+

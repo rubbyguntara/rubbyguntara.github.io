@@ -75,3 +75,4 @@ function parseItems(content, channel) {
 
   return $(`#scroll-horizontal > ul:nth-child(${i + 1}) li`).toArray()
 }
+

@@ -35,3 +35,4 @@ npm run channels:parse -- --config=./sites/mncvision.id/mncvision.id.config.js -
 ```sh
 npm test -- mncvision.id
 ```
+

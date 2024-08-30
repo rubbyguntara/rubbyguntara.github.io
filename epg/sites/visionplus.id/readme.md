@@ -19,3 +19,4 @@ npm run channels:parse -- --config=./sites/visionplus.id/visionplus.id.config.js
 ```sh
 npm test -- visionplus.id
 ```
+

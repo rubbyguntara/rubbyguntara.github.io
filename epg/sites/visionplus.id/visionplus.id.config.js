@@ -90,3 +90,4 @@ function parseItems(content, channel, date) {
 
   return daySchedule.items
 }
+

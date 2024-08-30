@@ -21,3 +21,4 @@ npm run channels:parse -- --config=./sites/indihometv.com/indihometv.com.config.
 ```sh
 npm test -- indihometv.com
 ```
+

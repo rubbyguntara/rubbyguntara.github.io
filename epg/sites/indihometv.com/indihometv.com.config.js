@@ -88,3 +88,4 @@ function parseItems(content, date) {
 
   return $(`#pills-${date.format('YYYY-MM-DD')} .schedule-item`).toArray()
 }
+
