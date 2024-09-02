@@ -185,35 +185,8 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/cnbcindonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/mytv.png",My TV
-http://mantul.biz.id:8888/live/Arkan/54647/8976.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_1.png",Champions TV 1
-http://tvn.x10.bz/xchannel/master-6.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_2.png",Champions TV 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_3.png",Champions TV 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/Champions_TV_4.png",Champions TV 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/citra_dangdut.png",Citra Dangdut
-http://tvn.x10.bz/xchannel/master-10.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tic.png",The Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rans.png",Rans Entertainment
-http://tvn.x10.bz/xchannel/master-21.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tempo.png",Tempo TV
-http://tvn.x10.bz/xchannel/master-27.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tvedukasi.png",TV Edukasi
-http://tvn.x10.bz/xchannel/master-17.m3u8
 
 <!##########################################################################
 <!######################### NEWS CHANNELS GROUP ############################
@@ -695,10 +668,10 @@ https://webudit.cdnhks.lol/lb/premium39/index.m3u8|referer=https://widevine.lice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium758/index.m3u8|referer=https://widevine.licenses4.me/
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://i.postimg.cc/prtD9pTL/20220927-063743.png" group-title="Sports",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="Sports", True Premier HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -724,21 +697,6 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Sports", beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Sports", beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:1 tvg-id="beINSports3Thailand.th" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Sports", beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_sport6_1080p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="TrueSportHD.th" tvg-logo="https://i.postimg.cc/8cWt32Fj/20220927-064449.png" group-title="Sports", True Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -920,7 +878,7 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=9353&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Sports",Premier League TV
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Sports",Champions TV EPL
 http://gatotkaca007.serv00.net/red/play.mpd?id=9353&type=dash
 
 <!##########################################################################
