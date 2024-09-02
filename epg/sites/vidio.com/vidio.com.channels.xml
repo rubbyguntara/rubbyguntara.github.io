@@ -65,6 +65,5 @@
   <channel site="vidio.com" lang="id" xmltv_id="tvOne.id" site_id="783">TVOne</channel>
   <channel site="vidio.com" lang="id" xmltv_id="TVRINasional.id" site_id="6441">TVRI</channel>
   <channel site="vidio.com" lang="id" xmltv_id="UChannel.id" site_id="6898">U-Channel TV</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ZeeBioskop.id" site_id="6399">Zee Bioskop</channel>
   <channel site="vidio.com" lang="id" xmltv_id="ZooMoo.sg" site_id="6533">Zoomoo</channel>
 </channels>

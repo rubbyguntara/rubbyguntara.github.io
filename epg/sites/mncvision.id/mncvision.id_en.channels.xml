@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="40">Moonbug</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="" site_id="90">Okezone TV</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="" site_id="96">Celebrities TV</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="423">sportstars 3 HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="437">SCTV HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="444">Music TV HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="447">AXN HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="459">Food Travel HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="462">Global Trekker HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="471">Kids TV HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="" site_id="473">Dreamworks HD</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="ABCAustralia.au" site_id="350">ABC Australia</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="331">Al Jazeera English</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="AnimaxAsia.sg" site_id="157">Animax</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="ANTV.id" site_id="115">ANTV</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="ArirangWorld.kr" site_id="351">Arirang</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="AXN.id" site_id="154">AXN</channel>
-  <channel site="mncvision.id" lang="en" xmltv_id="AXNHD.id" site_id="438">AXN HD</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="AXNHD.id" site_id="438">Indosiar HD</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="BBCEarthAsia.uk" site_id="200">BBC Earth</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="BBCEarthAsiaHD.uk" site_id="461">BBC Earth HD</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="BBCNewsAsiaPacific.uk" site_id="332">BBC World News</channel>
@@ -80,13 +89,11 @@
   <channel site="mncvision.id" lang="en" xmltv_id="NickelodeonAsia.sg" site_id="49">Nickelodeon</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="NickJrAsia.sg" site_id="37">Nickelodeon Jr</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="NickJrAsiaHD.sg" site_id="472">Nick Jr. HD</channel>
-  <channel site="mncvision.id" lang="en" xmltv_id="OKTV.id" site_id="95">OK TV</channel>
+  <channel site="mncvision.id" lang="en" xmltv_id="OKTV.id" site_id="95">FOOD TRAVEL</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="ONE.sg" site_id="164">ONE</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="ONEHD.sg" site_id="445">ONE HD</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="OutdoorChannel.us" site_id="202">Outdoor Channel</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="OutdoorChannelHD.us" site_id="460">Outdoor channel HD</channel>
-  <channel site="mncvision.id" lang="en" xmltv_id="ParamountNetwork.id" site_id="163">PARAMOUNT</channel>
-  <channel site="mncvision.id" lang="en" xmltv_id="ParamountNetworkIndonesiaHD.id" site_id="441">PARAMOUNT HD</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="QuranTV.sa" site_id="93">Al Quran Al Kareem</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="RCTI.id" site_id="80">RCTI</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="RCTIHD.id" site_id="430">RCTI HD</channel>
@@ -124,4 +131,3 @@
   <channel site="mncvision.id" lang="en" xmltv_id="ZeeBioskop.id" site_id="23">Zee Bioskop</channel>
   <channel site="mncvision.id" lang="en" xmltv_id="ZooMoo.sg" site_id="39">Zoomoo</channel>
 </channels>
-
